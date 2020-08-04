@@ -1,7 +1,15 @@
 body {
   font-family: sans-serif;
+  background-color: rgb(159, 252, 221);
 }
-
+h1 {
+  width: 75%;
+  height: 10%;
+}
 h2 {
   font-size: 100%;
+}
+br {
+  height: 10%;
+  color: white;
 }
