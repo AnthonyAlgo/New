@@ -1,15 +1,18 @@
 body {
   font-family: sans-serif;
-  background-color: rgb(159, 252, 221);
+  background-color: white;
 }
 h1 {
+  color: gray;
   width: 75%;
   height: 10%;
+  border-color: whitesmoke;
 }
 h2 {
   font-size: 100%;
+  color: gray;
 }
-br {
-  height: 10%;
-  color: white;
+hr {
+  color: gray;
+  border-style: dotted;
 }
